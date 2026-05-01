@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 仮想環境
+venv/
+.env/
+
+# 環境変数（最重要）
+.env
+
+# Streamlit
+.streamlit/
+
+# 音声ファイル（生成物）
+audio/
+
+# 履歴ファイル
+history.json
+
+# OS系
+.DS_Store
+Thumbs.db
